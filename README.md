@@ -11,7 +11,7 @@
   </ul>
 
 
-<h2> 🚀 &nbsp; Tools learned and used</h2>
+<h2>Tools learned and used</h2>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C Programming Language" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" alt="Python" width="45" height="45"/>
