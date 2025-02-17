@@ -8,7 +8,7 @@
 <div>
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
-<p align="left">
+<p align="left" background-color: white>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C Programming Language" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" alt="Python" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" alt="Git" width="45" height="45"/>
