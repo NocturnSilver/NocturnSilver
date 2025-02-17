@@ -1,5 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=30&duration=6000&pause=1000&color=2CF767&width=435&lines=%3E+Welcome+to+my+page!;%3E+A+storage+for+monstros...;%3E+I+mean+respectable+code;%3E+Just+a+small+disclaimer;%3E+If+you+clone+my+repos;%3E+don't+blame+me+if+your;%3E+system+decides+to...;%3E+Unalive+itself;%3E+...;%3E+Why+are+you+still+here%3F;%3E+Nothing+better+to+do%3F;%3E+Oh+well+suit+yourself" alt="Typing SVG" /></a>
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=30&duration=6000&pause=1000&color=2CF767&width=435&lines=%3E+Welcome+to+my+page!;%3E+A+storage+for+monstros...;%3E+I+mean+respectable+code;%3E+Just+a+small+disclaimer;%3E+If+you+clone+my+repos;%3E+don't+blame+me+if+your;%3E+system+decides+to...;%3E+Unalive+itself+%3AP;%3E+...;%3E+Why+are+you+still+here%3F;%3E+Nothing+better+to+do%3F;%3E+Oh+well+suit+yourself" alt="Typing SVG" /></a>
   
 <h2>
   Education and Interests
