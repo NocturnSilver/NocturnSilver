@@ -10,8 +10,8 @@
 <div>
 
 <div>
-  - 👀 I’m interested in Math, Physics, computer science, and robotics <br>
-  - 🌱 I’m currently pursuing a masters in computer science. <br>
+  <p>👀 I’m interested in Math, Physics, computer science, and robotics</p>
+  <p>🌱 I’m currently pursuing a masters in computer science. </p>
 <div>
 
 <!---
