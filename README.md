@@ -4,8 +4,8 @@
   Education and Interests
 </h2>
   <ul>
-    <li>👀 I’m interested in Math, Physics, computer science, and robotics</li>
-    <li>🌱 I’m currently pursuing a masters in Computer Science. </li>
+    <li>I am currently pursuing a masters in Computer Science. </li>
+    <li>I am interested in Math, Physics, computer science, and robotics</li>
   </ul>
 
 
