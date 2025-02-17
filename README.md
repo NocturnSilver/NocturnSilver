@@ -1,14 +1,18 @@
-<div>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=2CF767&width=435&lines=%3E+Welcome+to+my+page!" alt="Typing SVG" /></a>
-<div>
 
-<ul>
-  <li>👀 I’m interested in Math, Physics, computer science, and robotics</li>
-  <li>🌱 I’m currently pursuing a masters in Computer Science. </li>
-<ul>
+
+<h2>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=2CF767&width=435&lines=%3E+Welcome+to+my+page!" alt="Typing SVG" /></a>
+</h2>
+
+<h2>
+  <ul>
+    <li>👀 I’m interested in Math, Physics, computer science, and robotics</li>
+    <li>🌱 I’m currently pursuing a masters in Computer Science. </li>
+  </ul>
+</h2>
 
 <h2> 🚀 &nbsp; Tools learned and used</h2>
-<p>
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C Programming Language" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" alt="Python" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" alt="numpy" width="45" height="45"/>
