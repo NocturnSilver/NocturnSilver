@@ -5,7 +5,7 @@
 
 
 <h2>
-  <code style="color:aquamarine">Education and Interests</code>
+  <code style="color : aquamarine">Education and Interests</code>
 </h2>
   <ul>
     <li>👀 I’m interested in Math, Physics, computer science, and robotics</li>
