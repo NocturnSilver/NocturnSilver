@@ -4,12 +4,12 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=2CF767&width=435&lines=%3E+Welcome+to+my+page!" alt="Typing SVG" /></a>
 </h2>
 
-<h2>
+<h2>Education and Interests</h2>
   <ul>
     <li>👀 I’m interested in Math, Physics, computer science, and robotics</li>
     <li>🌱 I’m currently pursuing a masters in Computer Science. </li>
   </ul>
-</h2>
+
 
 <h2> 🚀 &nbsp; Tools learned and used</h2>
 <p align="left">
