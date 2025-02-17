@@ -5,7 +5,7 @@
 
   
 <h2>
-  $${\color{Aquamarine}Education and Interests}$$
+  $${\color{Aquamarine}Education\ and \Interests}$$
 </h2>
   <ul>
     <li>👀 I’m interested in Math, Physics, computer science, and robotics</li>
@@ -14,7 +14,7 @@
 
 
 <h2>
-   $${\color{Aquamarine}Tools Learned and Used}$$
+   $${\color{Aquamarine}Tools \Learned\ and \Used}$$
 </h2>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C Programming Language" width="45" height="45"/>
