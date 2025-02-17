@@ -1,7 +1,5 @@
 
-
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=30&duration=6000&pause=1000&color=2CF767&width=435&lines=%3E+Welcome+to+my+page;%3E+A+place+where+code...;%3E+may+never+see+light;%3E+there+isn't+anything+else;%3E+...;%3E+Why+are+you+still+staring;%3E+Nothing+better+to+do%3F;%3E+Oh+well+suit+yourself" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=30&duration=6000&pause=1000&color=2CF767&width=435&lines=%3E+Welcome+to+my+page!;%3E+A+place+where+monst...;%3E+I+mean+clean+code;%3E+is+stashed+...;%3E+to+keep+the+world+safe...;%3E+From+horrible+practices;%3E+The+End;%3E+...;%3E+Why+are+you+still+here%3F;%3E+Nothing+better+to+do%3F;%3E+Oh+well+suit+yourself" alt="Typing SVG" /></a>
 
   
 <h2>
