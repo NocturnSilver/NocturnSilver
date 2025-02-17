@@ -4,7 +4,9 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&duration=6000&pause=1000&color=2CF767&width=435&lines=%3E+Welcome+to+my+page!;%3E+Have+a+look+around" alt="Typing SVG" /></a>
 
 
-<h2 font-color="green">Education and Interests</h2>
+<h2>
+  <code style="color:aquamarine">Education and Interests</code>
+</h2>
   <ul>
     <li>👀 I’m interested in Math, Physics, computer science, and robotics</li>
     <li>🌱 I’m currently pursuing a masters in Computer Science. </li>
