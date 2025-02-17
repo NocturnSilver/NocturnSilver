@@ -1,7 +1,7 @@
 
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=2CF767&width=435&lines=%3E+Welcome+to+my+page!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&duration=6000&pause=1000&color=2CF767&width=435&lines=%3E+Welcome+to+my+page!;%3E+Have+a+look+around" alt="Typing SVG" /></a>
 
 
 <h2>Education and Interests</h2>
