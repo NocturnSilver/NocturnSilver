@@ -5,7 +5,7 @@
 
   
 <h2>
-  $${\color{lightgreen}Light \space Green}$$
+  $${\color{Aquamarine}Light \space Green}$$
 </h2>
   <ul>
     <li>👀 I’m interested in Math, Physics, computer science, and robotics</li>
