@@ -8,6 +8,7 @@
     <li>I am interested in Math, Physics, computer science, and robotics</li>
   </ul>
 
+![Snake animation](https://github.com/NocturnSilver/NocturnSilver/blob/output/github-contribution-grid-snake.svg)
 
 <h2>
    Tools Learned and Used
