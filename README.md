@@ -5,12 +5,12 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=roboto&weight=600&size=30&duration=2000&pause=1000&color=18F71D&background=06072F00&vCenter=true&width=435&lines=(%E3%81%A5+%E2%97%95%E2%80%BF%E2%97%95+)%E3%81%A5+++++%E1%83%9A(%CC%81%E2%97%89%E2%97%9E%E0%B1%AA%E2%97%9F%E2%97%89%E2%80%B5%E1%83%9A);%E1%95%99(%E2%87%80%E2%80%B8%E2%86%BC%E2%80%B6)%E1%95%97++++%E2%B8%82%E2%B8%82%E2%B8%9C(%E0%B4%B0%E1%B4%97%E0%B4%B0%E0%B9%91)%E2%B8%9D%E2%B8%83%E2%B8%83;(+%CB%98%E2%96%BD%CB%98)%E3%81%A3%E2%99%A8+(%E2%97%8F%C2%B4%E2%8C%93%60%E2%97%8F)+(%E2%97%90%CF%89%E2%97%91+);(+%E0%B2%A0%E2%80%BF%3C)++%D9%A9(%E2%97%95%E2%80%BF%E2%97%95)%DB%B6+%D1%89(%E2%96%BC%EF%BE%9B%E2%96%BC%D1%89);(%E2%98%9E%E2%8C%90%E2%96%80%CD%A1+%CD%9C%CA%96%CD%A1%E2%96%80+)%E2%98%9E%E3%83%BD%E0%BC%BC+%E0%BA%88%D9%84%CD%9C%E0%BA%88%E0%BC%BC+%E2%96%80%CC%BF%CC%BF%C4%B9%CC%AF%CC%BF%CC%BF%E2%96%80%CC%BF+%CC%BF%E0%BC%BD%C6%9F%CD%86%D9%84%CD%9C%C6%9F%CD%86+%E0%BC%BD%EF%BE%89" alt="Typing SVG" /></a>
 
 <h2>
-  Education and Interests
+  Interests
 </h2>
   <ul>
-    <li>I am currently pursuing a masters in Computer Science. </li>
-    <li>I am currently an intern for DataShield. </li>
-    <li>I am interested in Math, Physics, computer science, and robotics</li>
+    <li> Creating imaginary habitable pocket dimensions in my mind on my free time. </li>
+    <li> Attempting Problems too hard for my own good. </li>
+    <li> Binging on whatever interests me. </li>
   </ul>
 
 <h2>
