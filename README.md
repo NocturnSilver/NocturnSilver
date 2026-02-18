@@ -8,7 +8,7 @@
   Interests
 </h2>
   <ul>
-    <li> Creating imaginary habitable pocket dimensions in my mind on my free time. </li>
+    <li> Creating imaginary habitable pocket dimensions in my mind. </li>
     <li> Attempting Problems too hard for my own good. </li>
     <li> Binging on whatever interests me. </li>
   </ul>
