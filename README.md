@@ -14,6 +14,7 @@
     <li> Creating imaginary rent-free pocket dimensions in my mind. </li>
     <li> Attempting Problems too hard for my own good. </li>
     <li> Binging on whatever interests me. </li>
+    <li> p ∈ E, S ⊂ E | S = {s}, j ∈ J| J = {j1, j2, ... jn}, assume ∃ J ∩ P ≠ ∅ s, p ∈ P
   </ul>
 
 <h2>
